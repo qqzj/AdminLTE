@@ -1,8 +1,9 @@
 {
   "name": "AdminLTE",
+  "version": "2.1.2",
   "homepage": "http://almsaeedstudio.com",
   "authors": [
-    "Abdullah Almsaeed <support@almsaeedstudio.com>"
+    "Abdullah Almsaeed <almasaeed2010@gmail.com>"
   ],
   "description": "Admin dashboard and control panel template",
   "main": [
